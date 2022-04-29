@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jinx2018
-- 👀 I’m interested in deep learning, computer vision, self-supervised learning, multi-modal learning
+- 👀 I’m interested in deep learning, computer vision, self-supervised learning, multi-modal learning, image generation
 - 🌱 I’m currently pursuing my PhD degree at SJTU
 
 
